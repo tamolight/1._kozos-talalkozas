@@ -1,0 +1,52 @@
+h1 {
+  font-style: italic;
+  color: #96dae4;
+  background-color: #cdeeaa;
+}
+h2 {
+  font-style: italic;
+  color: #96dae4;}
+body {
+  background-color: #ffedc6;
+}
+table, td, th {
+  border: 1px solid #6d70c6;
+  border-bottom: 4px dotted #6d70c6;
+  border-left: 4px dotted #6d70c6;
+  vertical-align: middle;
+  background-color: #defcfc;
+
+}
+
+table {
+  border-collapse: collapse;
+  width: 60%;
+  vertical-align: bottom;
+  border: dotted #6d70c6;
+  border-radius: 5px;
+}
+
+td {
+  height: 30px;
+  vertical-align: bottom;
+    vertical-align: middle;
+
+}
+.a {
+  border-collapse: collapse;
+  width: 20%;
+  vertical-align: middle;
+      align-self: center;
+}
+.b {
+  color: #cdeeaa;
+  background-color: #96dae4;
+}
+#aa {color: #cdeeaa;
+    background-color: #96dae4;
+
+}
+hr {
+    border-bottom: 4px dotted #6d70c6;
+    border-top: none;
+}
